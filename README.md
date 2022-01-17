@@ -1,7 +1,7 @@
 ### Olá! Eu sou Francisco Santos  👋
 
-- 🔭 No momento, estou trabalhando com fullstack
-- 🌱 No momento, estou aprendendo React, React Native.
+- 🔭 No momento, estou trabalhando com Front End
+- 🌱 No momento, estou aprendendo React, React Native, SpringBoot.
 - ⚡ Fato divertido: Gosto de tocar Violão 🎸
 
 <div>
