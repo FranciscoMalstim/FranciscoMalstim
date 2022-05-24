@@ -3,7 +3,7 @@
 
 - 🔭 No momento, estou trabalhando com Front End
 - 🌱 No momento, estou aprendendo React, React Native, SpringBoot e Ruby Rails
-- ⚡ Fato divertido: Gosto de tocar Violão 🎸
+
 
 <div styled= "display:inline_block" "box-sizing: none;">
   <a href="https://github.com/FranciscoMalstim">
