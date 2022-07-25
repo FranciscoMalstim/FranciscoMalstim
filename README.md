@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-santos-a16519215/)
 
 - 🔭 No momento, estou trabalhando com Front End
-- 🌱 No momento, estou aprendendo React, React Native,Kotlin,SpringBoot e Ruby Rails
+- 🌱 Estou aprendendo React, React Native,Kotlin,SpringBoot e Ruby Rails
 <div diplay:"flex" flex-direction:"row">
   <a href="https://github.com/FranciscoMalstim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscomalstim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
